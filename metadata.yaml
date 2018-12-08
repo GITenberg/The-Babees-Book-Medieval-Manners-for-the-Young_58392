@@ -1,0 +1,32 @@
+_repo: The-Babees-Book-Medieval-Manners-for-the-Young_58392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Furnivall, Frederick James
+    alias: Furnivall, F. J. (Frederick James)
+    birthdate: 1825
+    deathdate: 1910
+    gutenberg_agent_id: '5672'
+    url: http://www.gutenberg.org/2009/agents/5672
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_James_Furnivall
+  editor:
+    agent_name: Rickert, Edith
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '8158'
+    url: http://www.gutenberg.org/2009/agents/8158
+description: ''
+gutenberg_issued: '2018-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Babees'' Book
+
+  Medieval Manners for the Young'
+url: http://www.gutenberg.org/ebooks/58392
